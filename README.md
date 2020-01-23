@@ -48,7 +48,7 @@ Open new terminal window, source again and start script:
 ```bash
 cd <your directory>
 source devel/setup.bash
-rosrun darwin fall.py
+rosrun darwin_control fall.py
 ```
 
 ## Credits
